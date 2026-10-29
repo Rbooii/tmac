@@ -1,0 +1,4 @@
+/tmac
+*.o
+*.d
+.DS_Store
